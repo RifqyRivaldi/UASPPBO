@@ -1,5 +1,0 @@
-https://github.com/RifqyRivaldi/UASPPBO.git
-
-https://github.com/RifqyRivaldi/UASPPBO
-
-gh repo clone RifqyRivaldi/UASPPBO
